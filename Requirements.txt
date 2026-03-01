@@ -1,0 +1,15 @@
+torch
+torchvision
+ftfy
+regex
+tqdm
+numpy
+pillow
+matplotlib
+omegaconf
+pytorch-lightning
+einops
+kornia
+imageio
+imageio-ffmpeg
+transformers
