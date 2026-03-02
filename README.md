@@ -212,6 +212,10 @@ This produces smooth visual transitions between concepts.
 
 ## 🎥 Demo Preview
 
+<p align="center">
+  <img src="Assets/gif_video.gif" width="600"/>
+</p>
+
 
 
 
